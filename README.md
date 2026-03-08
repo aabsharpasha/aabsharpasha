@@ -1,6 +1,6 @@
 # Hi there, I'm Aabshar Pasha 👋
 
-### **Tech Lead | AI Engineer | AI Architect**
+### **AI Architect | Tech Lead | Full-Stack AI Engineer**
 
 I am a seasoned Engineer with **13 years of professional experience** building robust, scalable digital solutions. For the past **5 years**, I have focused on the **AI/ML frontier**, bridging the gap between enterprise-grade backend architecture and cutting-edge agentic workflows.
 
