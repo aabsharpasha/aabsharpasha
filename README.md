@@ -7,7 +7,7 @@ I am a seasoned Engineer with **13 years of professional experience** building r
 ---
 
 ### 🚀 What I’m Architecting
-* **Institutional Intelligence Platform:** Building an AI-powered ecosystem for the **Renowed Internation Organizagtion** using LangGraph, Azure AI Foundry, and SharePoint.
+* **Institutional Intelligence Platform:** Building an AI-powered ecosystem for the **Renowed International Organizagtion** using LangGraph, Azure AI Foundry, and SharePoint.
 * **Predictive Talent Analytics:** Designing attrition models for VC firms by leveraging LinkedIn data to identify human capital trends.
 * **Enterprise Automation:** Developing complex ETL pipelines and logic workflows (Azure Logic Apps + PostgreSQL) to streamline institutional data ingestion.
 * **Student Success POC:** Crafting a QR-based attendance system using FastAPI and React Native.
