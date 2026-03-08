@@ -43,8 +43,3 @@ I am currently transitioning into **Staff Engineer** and **AI Architect** roles.
 
 *"Solving complex problems with simple, scalable, and intelligent code."*
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabsharpasha&show_icons=true&theme=radical" alt="Aabshar's GitHub Stats" />
-</p>
