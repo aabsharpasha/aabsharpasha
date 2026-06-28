@@ -18,7 +18,7 @@ I am a seasoned Engineer with **13 years of professional experience** building r
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI / ML** | LangGraph, Langchain, RAG, Azure AI Foundry, LLM Orchestration, AIML Modeling |
+| **AI / ML** | LangGraph, Langchain, RAG, Azure AI Foundry, LLM Orchestration, AIML Modeling | Agentic AI | Deep Agent |
 | **Backend** | Python (Enterprise-grade), FastAPI, PostgreSQL (JSONB), Node.js |
 | **Cloud & Ops** | Azure Ecosystem (Logic Apps, SharePoint, Functions), Railway, Docker | n8n workflow
 | **Mobile & Web** | React Native, React.js |
