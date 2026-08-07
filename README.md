@@ -33,7 +33,7 @@ I am a seasoned Engineer with **13 years of professional experience** building r
 ---
 
 ### 📈 The Mission
-I am currently transitioning into **Staff Engineer** and **AI Architect** roles. My focus is on mastering **Agentic Design Patterns** and ensuring that AI integration remains secure, performant, and truly "intelligent" at the enterprise level.
+I am currently transitioning into **AI/ML Manager** and **AI Architect** roles. My focus is on mastering **Agentic Design Patterns** and ensuring that AI integration remains secure, performant, and truly "intelligent" at the enterprise level.
 
 ---
 
